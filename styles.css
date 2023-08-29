@@ -1,0 +1,130 @@
+body {
+    display: flex;
+    background-color: rgb(69, 9, 97) ;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  
+
+}
+
+.container {
+    display: flex;
+    /* display: flex; */
+    height: 30em;
+    width: 58.7em;
+    background-color:  rgb(69, 9, 97);
+    align-items: center;
+justify-content: space-between;
+
+}
+.con1{
+    /* display: flex; */
+    height:25em ;
+    width: 28em;
+background-color:rgb(69, 9, 97);
+/* justify-content: center; */
+}
+.con2{
+    height:25em ;
+    width: 28em;
+background-color: rgb(69, 9, 97);
+
+}
+.c1{
+  
+height: 6.4em;
+width: 28em;
+background-color: rgb(188, 83, 212);
+
+}
+.all3{
+    display: flex;
+    justify-content: space-between;
+    height: 18.6em;
+    width: 28em;
+    background-color: rgb(69, 9, 97);
+
+}
+.left2{
+height: 17.3em;
+width: 13.2em;
+margin-top: 20px;
+background-color:rgb(69, 9, 97);
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+.c2{
+height: 10.4em;
+width:13.2em ;
+background-color: rgb(255, 167, 17);
+}
+.c3{
+height:5.8em ;
+width:13.2em ;
+background-color: rgb(244, 63, 80)
+}
+.c4{
+    margin-top: 20px;
+height: 17.3em;
+width: 13.2em;
+background-color: rgb(0, 189, 208);
+}
+.up{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(69, 9, 97);
+}
+.rl{
+background-color: rgb(69, 9, 97);
+height:16.6em ;
+width:13.2em ;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+.rr{
+background-color:rgb(69, 9, 97) ;
+height:16.6em ;
+width:13.2em ;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+.down{
+    margin-top: 20px;
+background-color:rgb(188, 83, 212) ;
+height:7.1em ;
+width:28em ;
+}
+.l1{
+height:5.6em;
+width: 13.2em;
+background-color:rgb(244, 63, 80);
+}
+.l2{
+    height: 3.2em;
+    width: 13.2em;
+    background-color:rgb(0, 189, 208);
+}
+.l3{
+    height: 5.5em;
+    width: 13.2em;
+    background-color: rgb(255, 167, 17);
+}
+.r1{
+    height: 6.5em;
+    width: 13.2em;
+    background-color:rgb(0, 189, 208);
+}
+.r2{
+    height: 4.5em;
+    width: 13.2em;
+    background-color: rgb(255, 167, 17);
+}
+.r3{
+    height: 3.5em;
+    width: 13.2em;
+    background-color: rgb(244, 63, 80);
+}
